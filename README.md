@@ -1,6 +1,6 @@
-![JS-Fundamentals-May-2019](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/_README/ProgrammingFundamentals.jpg)
+![JS-Fundamentals-May-2021](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/_README/ProgrammingFundamentals.jpg)
 
-![Image Not Found](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/_README/JS-Fundamentals-Certificate.png)
+![Image Not Found](https://github.com/MiroRuskov/SoftUni-JS-Fundamentals-May-2021/blob/main/_README/JS-Fundamentals-Certificate.jpg)
 
 ---
 
